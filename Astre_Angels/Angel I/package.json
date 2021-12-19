@@ -1,0 +1,16 @@
+{
+  "name": "yulaf-guard",
+  "version": "0.0.1",
+  "description": "Satuka Guard",
+  "main": "YulafGuard.js",
+  "scripts": {
+    "test": "node YulafGuard.js"
+  },
+  "author": "Yulaf",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "keywords": [],
+  "devDependencies": {}
+}

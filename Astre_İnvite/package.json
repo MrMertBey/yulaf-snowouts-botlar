@@ -1,0 +1,20 @@
+{
+  "name": "satuke-invite-ask",
+  "version": "1.0.0",
+  "description": "sa",
+  "main": "satuke.js",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "moment-timezone": "^0.5.33",
+    "mongoose": "^5.12.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node satuke.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

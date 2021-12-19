@@ -1,0 +1,19 @@
+{
+  "name": "yulaf-backup-bot",
+  "version": "0.0.1",
+  "description": "Yulaf Backup",
+  "main": "YulafBackup.js",
+  "scripts": {
+    "test": "node YulafBackup.js"
+  },
+  "author": "Yulaf :)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "moment": "^2.27.0",
+    "mongoose": "^5.12.3"
+  },
+  "keywords": [
+    "Yulaf-backup-bot"
+  ]
+}

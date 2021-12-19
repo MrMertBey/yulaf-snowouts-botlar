@@ -1,0 +1,11 @@
+{
+   "kickGuard":true,
+   "banGuard":true,
+   "botGuard":true,
+   "serverGuard":true,
+   "webhookGuard":true,
+   "emojiDelete":true,
+   "emojiCreate":true,
+   "emojiUpdate":true,
+   "Vanity_Guard":true,
+   "banRemove":true}

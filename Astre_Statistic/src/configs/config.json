@@ -1,0 +1,33 @@
+{
+  "publicParents": ["859682605473857566"],
+  "registerParents": ["859417519747891260"],
+  "privateParents": ["859691824070918156"],
+  "ignoreChannels": ["859447535243624449","859457868763103232"],
+  "streamerParents": ["860573854031806514"],
+  "musicParents": ["859686798657978408"],
+  "solvingParents": ["860831766779920384"],
+  "funParents": ["859478270465671178","859478330058997790","859478142753046548"],
+ "aloneParents": ["859478270465671178"],
+
+  "coinSystem": true,
+  "rankLog": "869246636549869638",
+  "tag": "✦",
+  "staffs": ["859429678598979584","859369549366689792"],
+  "messageCount": 1,
+  "messageCoin": 1,
+  "voiceCount": 1,
+  "voiceCoin": 1,
+  "publicCoin": 1,
+  "taggedCoin": 1,
+  "emojis": {
+    "coin": "<:coins:857882240465371157>",
+    "icon": "<a:satuke_yldz:867855235090874369>",
+    "nokta":"<:miniicon:871437177282768916>",
+    "fill": "<a:full:862290648308383745>",
+    "empty": "<:empty:862290648220041226>",
+    "emptyStart": "<:emptyfirst:862290648018976789>",
+    "fillStart": "<a:fullfirst:862290648315854878>",
+    "emptyEnd": "<:emptyend:862290648198807562>",
+    "fillEnd": "<a:fullend:862290647934697473>"
+  }
+}
